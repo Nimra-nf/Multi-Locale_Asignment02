@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Öğrenci kartı</string>
+    <string name="name">Öğrenci adı</string>
+    <string name="reg">xx-Kurak-xxxx</string>
+    <string name="deg">Derece</string>
+</resources>

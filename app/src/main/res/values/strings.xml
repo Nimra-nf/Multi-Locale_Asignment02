@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="name">Student Name</string>
+    <string name="reg">xx-Arid-xxxx</string>
+    <string name="deg">Degree</string>
+</resources>
